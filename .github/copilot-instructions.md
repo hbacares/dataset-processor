@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project connects to a PostgreSQL database, processes large datasets, and integrates with Google's Gemini model for data analysis. Please ensure that the code adheres to best practices for handling large datasets and external API integrations.
